@@ -1,4 +1,4 @@
-# myapp
+# This is app random english words xD
 
 A new Flutter application.
 
